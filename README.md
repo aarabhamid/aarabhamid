@@ -5,7 +5,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 
 ---
-### 💪 **Ma Philosophie
+### 💪 **Ma Philosophie**
 J’aime relever des défis techniques et résoudre des problèmes complexes. Mon cœur balance particulièrement pour le **backend**, où j’apprécie concevoir des architectures robustes et optimisées. Je crois en l’apprentissage continu : chaque projet est une opportunité d’approfondir mes connaissances et de découvrir de nouvelles technologies.
 
 ---
